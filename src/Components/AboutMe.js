@@ -7,7 +7,7 @@ const AboutMe = () => {
             <div className="hero-content flex-col lg:flex-row-reverse lg:mb-[-15px]">
                     <img  src={taher} alt="img" className=" max-w-sm rounded-lg  " />
                 <div>
-                <h1 className="text-4xl font-semibold md:py-3 ">HI, I'M ABUT TAHER</h1>
+                <h1 className="text-4xl font-semibold md:py-3 ">HI, I'M ABU TAHER</h1>
                 <div className='w-3/4 text-justify'>
                 <p className="py-6">I’m very careful about my work. I love to explore new things and love to learn something new. You will find seeking improved knowledge, hardworking in me.</p>
                 </div>
