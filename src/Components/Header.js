@@ -26,7 +26,7 @@ const Header = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a href='test' className="btn btn-primary">RESUME</a >
+          <a href='https://drive.google.com/file/d/1Bge9w0MQ68wxtSsMlPtgCFS0xRA654Nm/view?usp=share_link' className="btn btn-primary">RESUME</a >
         </div>
       </div>
     );
