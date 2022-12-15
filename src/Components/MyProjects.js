@@ -20,7 +20,7 @@ const MyProjects = () => {
                             <h2 className="card-title">Photography Website</h2>
                             <p>This website built with react, node , firebase, mongodb, express js </p>
                             <div className="card-actions">
-                            <button className="btn btn-primary">View Details</button>
+                            <button className="btn btn-primary"><a href="https://artsnap-d6b16.web.app/">Live Link</a></button>
                             </div>
                         </div>
                 </div>
@@ -29,10 +29,10 @@ const MyProjects = () => {
                                 <img src={project3} alt="project-img" className="rounded-xl" />
                             </figure>
                         <div className="card-body items-center text-center">
-                            <h2 className="card-title">Buy & Sell Website</h2>
+                            <h2 className="card-title">Learning Website</h2>
                             <p>This website built with react, node , firebase, mongodb, express js </p>
                             <div className="card-actions">
-                            <button className="btn btn-primary">View Details</button>
+                            <button className="btn btn-primary"><a href="https://candid-figolla-2361e0.netlify.app/">Live Link</a></button>
                             </div>
                         </div>
                 </div>
@@ -41,10 +41,10 @@ const MyProjects = () => {
                                 <img src={project1} alt="project-img" className="rounded-xl" />
                             </figure>
                         <div className="card-body items-center text-center">
-                            <h2 className="card-title">Learning Website</h2>
+                            <h2 className="card-title">Buy & Sell Website</h2>
                             <p>This website built with react, node , firebase, mongodb, express js </p>
                             <div className="card-actions">
-                            <button className="btn btn-primary">View Details</button>
+                            <button className="btn btn-primary"><a href="https://bd-buy-and-sell-754c8.web.app/">Live Link</a></button>
                             </div>
                         </div>
                 </div>
